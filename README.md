@@ -13,7 +13,7 @@ I come from a wet-lab biochemistry background, so this project is also my way of
 ## The question
 
 1. Do tumours with a high **immune-evasion** score have different overall survival from tumours with a low score?
-2. Do tumours with a high **stemness** score?
+2. Do tumours with a high **stemness** score have different overall survival from tumours with a low score?
 3. Is the pattern seen in TCGA-BRCA reproduced in METABRIC, an independent cohort measured on a different platform?
 
 ## Data
