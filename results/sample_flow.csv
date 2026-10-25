@@ -1,0 +1,12 @@
+cohort,step,n
+TCGA-BRCA,Samples listed in the clinical file,1084
+TCGA-BRCA,... with expression data,1082
+TCGA-BRCA,... primary tumour samples only,1082
+TCGA-BRCA,... one sample per patient,1082
+TCGA-BRCA,... women only,1070
+TCGA-BRCA,Final cohort (OS available: 1057),1070
+METABRIC,Samples listed in the clinical file,2509
+METABRIC,... with expression data,1980
+METABRIC,... one sample per patient,1980
+METABRIC,... women only,1980
+METABRIC,Final cohort (OS available: 1979),1980

@@ -1,0 +1,12 @@
+module,gene,in_TCGA-BRCA,in_METABRIC,used
+immune_evasion,CD274,True,True,True
+immune_evasion,PDCD1LG2,True,True,True
+immune_evasion,CTLA4,True,True,True
+immune_evasion,LAG3,True,True,True
+immune_evasion,TIGIT,True,True,True
+immune_evasion,IDO1,True,True,True
+immune_evasion,CD47,True,True,True
+stemness,ALDH1A1,True,True,True
+stemness,CD44,True,True,True
+stemness,PROM1,True,True,True
+stemness,SOX2,True,True,True
