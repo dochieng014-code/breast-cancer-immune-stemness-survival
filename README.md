@@ -143,7 +143,7 @@ figures/                                  all figures from the real run
 
 ## How I used AI tools
 
-I used Claude to help design the analysis structure and write and debug the code. I reviewed the method, ran the notebook myself, and I am responsible for the interpretation. The code was tested on simulated data with a known built-in effect to confirm that hazard-ratio directions come out correctly before it was pointed at real cohorts.
+I used Claude to help design the analysis structure and write and debug the code. I wrote the README, reviewed the method, ran the notebook myself, and I am responsible for the interpretation. The code was tested on simulated data with a known built-in effect to confirm that hazard-ratio directions come out correctly before it was pointed at real cohorts.
 
 ## References
 
